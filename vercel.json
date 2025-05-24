@@ -1,5 +1,4 @@
 {
-  "public": "buildweb/web",
   "rewrites": [
     {
       "source": "/(.*)",
