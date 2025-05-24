@@ -1,0 +1,2 @@
+D:/lecture02mushaf/android/app/.cxx/Debug/3ap5x5z1/x86_64/CMakeFiles/edit_cache.dir
+D:/lecture02mushaf/android/app/.cxx/Debug/3ap5x5z1/x86_64/CMakeFiles/rebuild_cache.dir
